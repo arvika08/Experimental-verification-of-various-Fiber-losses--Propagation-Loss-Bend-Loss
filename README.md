@@ -53,8 +53,9 @@ Since the signal in Optical Fiber is transmitted in the form of light (different
 15. Replace 1m fiber with 3m fiber (no other changes). Measure peak value = **V2**.  
 
 **Formula:**  
-<img width="758" height="50" alt="image" src="https://github.com/user-attachments/assets/3ec6183f-3031-4862-bb34-9f59c7e29fa3" />
-
+<p align="center">
+  <img src="https://github.com/user-attachments/assets/3ec6183f-3031-4862-bb34-9f59c7e29fa3" width="500">
+</p>
 Where:  
 - \(a\) = attenuation (nepers/meter)  
 - \(L1\) = fiber length for V1  
@@ -74,7 +75,9 @@ This \(a\) is for **660nm wavelength**.
 7. Replace 1m fiber with 3m fiber. Measure peak value = **V2**.  
 
 **Formula:**  
-<img width="758" height="50" alt="image" src="https://github.com/user-attachments/assets/56fbe9d6-9bff-460b-b04b-d2a73d0c3cd1" />
+<p align="center">
+  <img src="https://github.com/user-attachments/assets/56fbe9d6-9bff-460b-b04b-d2a73d0c3cd1" width="500">
+</p>
 
 
 This \(a\) is for **950nm wavelength**.  
@@ -94,7 +97,9 @@ This \(a\) is for **950nm wavelength**.
 
 ## TABULATION
 
-<img width="1030" height="1565" alt="image" src="https://github.com/user-attachments/assets/b5e6c72b-696f-4ba1-b152-9583fedd84ef" />
+<p align="center">
+  <img src="https://github.com/user-attachments/assets/b5e6c72b-696f-4ba1-b152-9583fedd84ef" width="450">
+</p>
 
 
 ---
